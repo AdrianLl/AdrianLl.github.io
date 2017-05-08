@@ -13,9 +13,9 @@ I am a programmer and IT professional-turned-Data Scientist out of fascination f
 
 Should you need to reach out to me, the easiest way is through email:
 
-adrian.lligu@gmail.com
+<adrian.lligu@gmail.com>
 
-# Programming Languages
+## Programming Languages
 * Python
 * Java
 * C++
