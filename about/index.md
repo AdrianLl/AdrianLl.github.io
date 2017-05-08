@@ -11,7 +11,7 @@ comments: false
 # About Me
 I am a programmer and IT professional-turned-Data Scientist out of fascination for data-driven work, problem-solving, and the high societal impact of big data. My hardware and software expertise have been essential to the improvement of team insights, personal performance, and technical communication to any audience.
 
-Should you need to reach out to me, the easiest way is through email:
+The easiest way to contact me is via email:
 
 <adrian.lligu@gmail.com>
 
