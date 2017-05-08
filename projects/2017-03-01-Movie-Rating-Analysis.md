@@ -4,7 +4,14 @@ title:      'DSI Movie Rating Predictor and Analysis'
 date:       2017-03-17
 excerpt:    'The goal of this project was to use ensemble methods to create a movie prediction model. The model would determine if a movie would be getting a high or low rating. Some of the contributing factors to the rating would also be explored.'
 # summary:    Webscraping and API calls to get movie data and run a random forest prediction on it.
-tags :      [data, randomforest, python, imdb, API, scraping]
+project: true
+tag:      
+- data
+- randomforests
+- python
+- imdb
+- API
+- scraping
 feature:    http://pre07.deviantart.net/6cd1/th/pre/f/2011/035/6/4/imdb_top_250_movie_poster_by_saxon1964-d38rnod.jpg
 comments: true
 # categories: projects
