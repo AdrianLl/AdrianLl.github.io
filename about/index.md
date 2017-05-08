@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Blog
+tags: [about, data science, programming, big data, introduction]
+date: 2017-05-08
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>This is my personal blog for some of the data and programming projects I have been working on. It is currently under construction and will have additional content very soon. Any projects will be posted in the projects section and will link back to my GitHub for full documentation.</center>
 
-## Preview
+# About Me
+I am a programmer and IT professional-turned-Data Scientist out of fascination for data-driven work, problem-solving, and the high societal impact of big data. My hardware and software expertise have been essential to the improvement of team insights, personal performance, and technical communication to any audience.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Should you need to reach out to me, the easiest way is through email:
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+adrian.lligu@gmail.com
 
-## Getting Started
+# Programming Languages
+* Python
+* Java
+* C++
+* C#
+* Unix Shell
+* PSQL
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Interest
+* Data Science
+* Big Data
+* Mobile Development
+* Machine Learning
+* Artificial Intelligence
+* Emerging Technology
