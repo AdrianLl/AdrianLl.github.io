@@ -18,6 +18,15 @@ comments: true
 # thumbnail: cogs
 
 ---
+### Github Repo
+[Part I - Scraping Movie ID's](https://github.com/AdrianLl/DSI-Movie-Rating-Predictor/blob/master/Part%20I%20-%20Scraping%20Movie%20ID.ipynb)
+
+[Part II - API Data Extraction](https://github.com/AdrianLl/DSI-Movie-Rating-Predictor/blob/master/Part%20II%20-%20API%20Data%20Extraction.ipynb)
+
+[Part III - Data Cleaning & Feature Engineering](https://github.com/AdrianLl/DSI-Movie-Rating-Predictor/blob/master/Part%20III%20-%20Data%20Cleaning%20%26%20Feature%20Engineering.ipynb)
+
+[Part IV - Data Modeling & Clustering](https://github.com/AdrianLl/DSI-Movie-Rating-Predictor/blob/master/Part%20IV%20-%20Data%20Modeling%20%26%20Clustering.ipynb)
+
 ### The Problem:
 
 There were three portions to this project:
